@@ -17,5 +17,3 @@ class CalculatorTest {
         assertEquals(1, calc.subtract(4, 3));
     }
 }
-```0. In the upper right corner click **Commit changes...**
-
